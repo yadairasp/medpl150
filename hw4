@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Photomontage Project</title>
+    <meta charset="UTF-8">
+</head>
+
+<body>
+
+    <h1>Photomontage: Beauty Standards and Media Influence</h1>
+
+    <h2>Final Image</h2>
+    <img src="images/beauty-standards.jpg" width="350" alt="Final Photomontage">
+
+    <h2>PSD Working File Screenshot</h2>
+    <img src="images/psd-screenshot.jpg" width="600" alt="Photoshop Layers Panel Screenshot">
+
+    <h2>Artist Statement</h2>
+
+    <p>
+        This photomontage explores the pressure of modern beauty standards and how they influence self-image.
+        I combined a portrait with magazine imagery and symbolic elements such as a tape measure to represent
+        unrealistic expectations placed on appearance. The reflection imagery suggests how media ideals can
+        distort the way individuals see themselves.
+    </p>
+
+    <p>
+        To create this piece, I used layer masks to combine multiple images without permanently deleting any
+        areas, allowing me to work non-destructively. I applied the Overlay blending mode to integrate text
+        into the composition and create a unified effect. Adjustment layers were used to control contrast
+        and color across the entire image.
+    </p>
+
+</body>
+</html>
